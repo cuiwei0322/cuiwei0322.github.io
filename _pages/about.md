@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: 简介
 permalink: /
 subtitle: <a href='https://www.tongji.edu.cn/'>同济大学</a>, <a href='https://en.tongji.edu.cn/'>Tongji University</a>
 nav: false
