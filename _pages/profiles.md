@@ -1,8 +1,8 @@
 ---
 layout: profiles
 permalink: /people/
-title: people
-description: members of the lab or group
+title: 学生指导
+description: 独行快，众行远/Go fast alone, go far together
 nav: true
 nav_order: 7
 profiles:
