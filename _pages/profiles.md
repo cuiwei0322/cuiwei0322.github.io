@@ -25,12 +25,19 @@ profiles:
   #     <p>123 your address street</p>
   #     <p>Your City, State 12345</p>
   - align: right
-    image: mateng.jpg
-    content: tengma.md
+    image: pengliu.jpg
+    content: pengliu.md
     image_circular: false # crops the image to make it circular
     more_info: >
       <p>风工程馆202</p>
       <p>202 Wind Engineering Building</p>
+  - align: left
+    image: mateng.jpg
+    content: tengma.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>风工程馆212</p>
+      <p>212 Wind Engineering Building</p>
   - align: right
     content: graduated.md
 ---
