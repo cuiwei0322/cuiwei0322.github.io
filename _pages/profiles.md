@@ -39,6 +39,20 @@ profiles:
       <p>风工程馆212</p>
       <p>212 Wind Engineering Building</p>
   - align: right
+    image: liutianzhang.png
+    content: liutianzhang.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>风工程馆212</p>
+      <p>212 Wind Engineering Building</p>
+  - align: left
+    image: tanjunfeng.png
+    content: junfengtan.md
+    image_circular: false # crops the image to make it circular
+    more_info: >
+      <p>风工程馆202</p>
+      <p>202 Wind Engineering Building</p>
+  - align: right
     content: graduated.md
 ---
 
