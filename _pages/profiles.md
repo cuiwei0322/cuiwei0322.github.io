@@ -39,7 +39,7 @@ profiles:
       <p>风工程馆212</p>
       <p>212 Wind Engineering Building</p>
   - align: right
-    image: congjuliu.png
+    image: congjuliu.jpg
     content: congjuliu.md
     image_circular: false # crops the image to make it circular
     more_info: >
