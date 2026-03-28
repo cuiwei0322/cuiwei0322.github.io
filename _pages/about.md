@@ -44,7 +44,8 @@ I am an Associate Professor at Department of Bridge Engineering, Tongji Universi
 
 #### `工作经历`
 #### `Professional experience`
-- 2022-Now, 助理教授/Assistant Professor, 同济大学/Tongji University <br />
+- 2026-Now,   副教授/Associate Professor, 同济大学/Tongji University <br />
+- 2022-2025, 助理教授/Assistant Professor, 同济大学/Tongji University <br />
 - 2018-2022, 助理研究员/Assistant Research Professor, 同济大学/Tongji University <br />
 - 2017-2018, Project Engineer, BMT Fluid Mechanics, New York, USA
 
