@@ -21,12 +21,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-同济大学土木工程学院桥梁工程系助理教授，我的研究方向是结构风工程，包括流固耦合，风致振动和强风下结构可靠度等。
+同济大学土木工程学院桥梁工程系副教授，我的研究方向是结构风工程，包括流固耦合，风致振动和强风下结构可靠度等。
 
-I am an Assistant Professor at Department of Bridge Engineering, Tongji University. My research field is wind engineering, e.g., wind and structure interaction, wind-induced vibration and structural reliability affected by strong winds
+I am an Associate Professor at Department of Bridge Engineering, Tongji University. My research field is wind engineering, e.g., wind and structure interaction, wind-induced vibration and structural reliability affected by strong winds
 
 #### `研究方向`
 #### `Research interests`
+- 非线性风致振动 <br />
+  Nonlinear wind-induced vibration
 - 结构随机动力学和风致振动 <br />
   Stochastic structural dynamics and wind-induced vibration
 - 流固耦合<br />
