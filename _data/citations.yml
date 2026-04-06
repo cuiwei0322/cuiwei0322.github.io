@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-03-29'
+  last_updated: '2026-04-06'
 papers:
   94YnP_UAAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -34,7 +34,7 @@ papers:
     title: A new stochastic formulation for synthetic hurricane simulation over the North Atlantic Ocean
     year: '2019'
   94YnP_UAAAAJ:8k81kl-MbHgC:
-    citations: 54
+    citations: 55
     title: Performance-based wind engineering of tall buildings examining life-cycle downtime and multisource wind damage
     year: '2020'
   94YnP_UAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: "Extreme typhoon wind speed mapping for coastal region of China: Geographically weighted regression\u2013based circular subregion algorithm"
     year: '2021'
   94YnP_UAAAAJ:BqipwSGYUEgC:
-    citations: 89
+    citations: 92
     title: A generalized van der Pol nonlinear model of vortex-induced vibrations of bridge decks with multistability
     year: '2024'
   94YnP_UAAAAJ:HDshCWvjkbEC:
@@ -74,7 +74,7 @@ papers:
     title: New GPU computing algorithm for wind load uncertainty analysis on high-rise systems
     year: '2015'
   94YnP_UAAAAJ:M3NEmzRMIkIC:
-    citations: 14
+    citations: 15
     title: Field measurements of wind microclimate at the vehicle level on a bridge deck under typical canyon terrain
     year: '2023'
   94YnP_UAAAAJ:MXK_kJrjxJIC:
@@ -118,7 +118,7 @@ papers:
     title: Optimal structural design searching algorithm for cooling towers based on typical adverse wind load patterns
     year: '2020'
   94YnP_UAAAAJ:UebtZRa9Y70C:
-    citations: 80
+    citations: 81
     title: A unified framework for performance-based wind engineering of tall buildings in hurricane-prone regions based on lifetime intervention-cost estimation
     year: '2018'
   94YnP_UAAAAJ:YFjsv_pBGBYC:
@@ -134,11 +134,11 @@ papers:
     title: Nonlinear flutter critical state prediction for a bridge girder based on instantaneous power balance principle
     year: '2025'
   94YnP_UAAAAJ:ZeXyd9-uunAC:
-    citations: 137
+    citations: 138
     title: A fast on-site measure-analyze-suppress response to control vortex-induced-vibration of a long-span bridge
     year: '2022'
   94YnP_UAAAAJ:_FxGoFyzp5QC:
-    citations: 94
+    citations: 95
     title: Exploring hurricane wind speed along US Atlantic coast in warming climate and effects on predictions of structural damage and intervention costs
     year: '2016'
   94YnP_UAAAAJ:_Qo2XoVZTnwC:
@@ -147,7 +147,7 @@ papers:
     year: '2022'
   94YnP_UAAAAJ:_xSYboBqXhAC:
     citations: 0
-    title: 'Using forced-motion tests to predict nonlinear flutter responses of sectional bridge model via complexification-averaging method: W. Cui, L. Zhao'
+    title: Using forced-motion tests to predict nonlinear flutter responses of sectional bridge model via complexification-averaging method
     year: '2026'
   94YnP_UAAAAJ:a0OBvERweLwC:
     citations: 3
@@ -206,7 +206,7 @@ papers:
     title: Profiles of mean wind and turbulence intensity during strong typhoon landfall
     year: '2022'
   94YnP_UAAAAJ:lSLTfruPkqcC:
-    citations: 6
+    citations: 7
     title: Life-cycle assessment for flutter probability of a long-span suspension bridge based on operational monitoring data
     year: '2024'
   94YnP_UAAAAJ:mB3voiENLucC:
@@ -250,10 +250,10 @@ papers:
     title: Physics-based method for the removal of spurious resonant frequencies in high-frequency force balance tests
     year: '2016'
   94YnP_UAAAAJ:yD5IFk8b50cC:
-    citations: 4
+    citations: 5
     title: Characteristic analysis of occurrence probability for vortex-induced vibration of long-span bridge based on health monitoring system
     year: '2025'
   94YnP_UAAAAJ:zA6iFVUQeVQC:
-    citations: 9
+    citations: 10
     title: 'Vortex-induced vibration control of 5: 1 rectangular cylinder with an attached active splitter plate based on open-loop control method'
     year: '2025'
