@@ -1,16 +1,16 @@
 metadata:
-  last_updated: '2026-04-08'
+  last_updated: '2026-04-13'
 papers:
   94YnP_UAAAAJ:-f6ydRqryjwC:
     citations: 16
     title: "Bayesian spectral density approach for identification of bridge section\u2019s flutter derivatives operated in turbulent flow"
     year: '2022'
   94YnP_UAAAAJ:35N4QoGY0k4C:
-    citations: 1
+    citations: 2
     title: Aerostatic Stability and Bifurcation for Long-Span Bridges Based on Reduced Order Modeling via Singular Value Decomposition
     year: '2024'
   94YnP_UAAAAJ:3s1wT3WcHBgC:
-    citations: 14
+    citations: 16
     title: Assessment of driving safety and comfort during vortex-induced vibrations in a long-span bridge considering wind-vehicle-bridge interactions
     year: '2025'
   94YnP_UAAAAJ:4DMP91E08xMC:
@@ -38,7 +38,7 @@ papers:
     title: Performance-based wind engineering of tall buildings examining life-cycle downtime and multisource wind damage
     year: '2020'
   94YnP_UAAAAJ:9ZlFYXVOiuMC:
-    citations: 54
+    citations: 55
     title: "Extreme typhoon wind speed mapping for coastal region of China: Geographically weighted regression\u2013based circular subregion algorithm"
     year: '2021'
   94YnP_UAAAAJ:BqipwSGYUEgC:
@@ -94,7 +94,7 @@ papers:
     title: Instantaneous power balance algorithm for flutter critical wind speed prediction of bridge girders
     year: '2024'
   94YnP_UAAAAJ:R3hNpaxXUhUC:
-    citations: 20
+    citations: 21
     title: Aerodynamics and aeroelastic performance of a rigid-frame bridge with a bluff body girder subjected to short-rise-time gusts
     year: '2022'
   94YnP_UAAAAJ:RGFaLdJalmkC:
@@ -106,7 +106,7 @@ papers:
     title: 'A fully-coupled generalized model for multi-directional wind loads on tall buildings: A development of the quasi-steady theory'
     year: '2018'
   94YnP_UAAAAJ:SeFeTyx0c_EC:
-    citations: 8
+    citations: 9
     title: Comparison of probabilistic multivariate wind environment between typhoon and synoptic climate and its propagation in buffeting response for a long-span bridge
     year: '2025'
   94YnP_UAAAAJ:TFP_iSt0sucC:
@@ -126,7 +126,7 @@ papers:
     title: Wind-induced buffeting vibration of long-span bridge considering geometric and aerodynamic nonlinearity based on reduced-order modeling
     year: '2023'
   94YnP_UAAAAJ:YOwf2qJgpHMC:
-    citations: 24
+    citations: 25
     title: A novel forced motion apparatus with potential applications in structural engineering
     year: '2020'
   94YnP_UAAAAJ:ZHo1McVdvXMC:
@@ -134,7 +134,7 @@ papers:
     title: Nonlinear flutter critical state prediction for a bridge girder based on instantaneous power balance principle
     year: '2025'
   94YnP_UAAAAJ:ZeXyd9-uunAC:
-    citations: 138
+    citations: 139
     title: A fast on-site measure-analyze-suppress response to control vortex-induced-vibration of a long-span bridge
     year: '2022'
   94YnP_UAAAAJ:_FxGoFyzp5QC:
@@ -186,7 +186,7 @@ papers:
     title: Efficient identification of flutter derivatives of bridge girders at multiple reduced wind speeds based on the Bayesian spectral density approach
     year: '2026'
   94YnP_UAAAAJ:fPk4N6BV_jEC:
-    citations: 11
+    citations: 13
     title: 'Pressure and flow patterns during multiple-order vertical vortex-induced vibrations of a 6: 1 rectangular cylinder'
     year: '2025'
   94YnP_UAAAAJ:hMod-77fHWUC:
@@ -210,7 +210,7 @@ papers:
     title: Life-cycle assessment for flutter probability of a long-span suspension bridge based on operational monitoring data
     year: '2024'
   94YnP_UAAAAJ:mB3voiENLucC:
-    citations: 28
+    citations: 29
     title: Non-Gaussian turbulence induced buffeting responses of long-span bridges based on state augmentation method
     year: '2022'
   94YnP_UAAAAJ:mVmsd5A6BfQC:
@@ -230,7 +230,7 @@ papers:
     title: Bayesian optimization of typhoon full-track simulation on the Northwestern Pacific segmented by QuadTree decomposition
     year: '2021'
   94YnP_UAAAAJ:r0BpntZqJG4C:
-    citations: 53
+    citations: 54
     title: Vibration mitigation of long-span bridges with damped outriggers
     year: '2022'
   94YnP_UAAAAJ:rO6llkc54NcC:
