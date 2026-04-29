@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-04-29'
 papers:
   94YnP_UAAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -10,7 +10,7 @@ papers:
     title: Aerostatic Stability and Bifurcation for Long-Span Bridges Based on Reduced Order Modeling via Singular Value Decomposition
     year: '2024'
   94YnP_UAAAAJ:3s1wT3WcHBgC:
-    citations: 16
+    citations: 17
     title: Assessment of driving safety and comfort during vortex-induced vibrations in a long-span bridge considering wind-vehicle-bridge interactions
     year: '2025'
   94YnP_UAAAAJ:4DMP91E08xMC:
@@ -22,7 +22,7 @@ papers:
     title: Bayesian inference based parametric identification of vortex-excited force using on-site measured vibration data on a long-span bridge
     year: '2022'
   94YnP_UAAAAJ:4OULZ7Gr8RgC:
-    citations: 4
+    citations: 5
     title: Aerodynamic characteristics and structural effects of suspending scaffolds for super high-rise building construction
     year: '2025'
   94YnP_UAAAAJ:4TOpqqG69KYC:
@@ -34,7 +34,7 @@ papers:
     title: A new stochastic formulation for synthetic hurricane simulation over the North Atlantic Ocean
     year: '2019'
   94YnP_UAAAAJ:8k81kl-MbHgC:
-    citations: 55
+    citations: 56
     title: Performance-based wind engineering of tall buildings examining life-cycle downtime and multisource wind damage
     year: '2020'
   94YnP_UAAAAJ:9ZlFYXVOiuMC:
@@ -42,7 +42,7 @@ papers:
     title: "Extreme typhoon wind speed mapping for coastal region of China: Geographically weighted regression\u2013based circular subregion algorithm"
     year: '2021'
   94YnP_UAAAAJ:BqipwSGYUEgC:
-    citations: 93
+    citations: 94
     title: A generalized van der Pol nonlinear model of vortex-induced vibrations of bridge decks with multistability
     year: '2024'
   94YnP_UAAAAJ:HDshCWvjkbEC:
@@ -89,6 +89,10 @@ papers:
     citations: 7
     title: State augmentation method for non-stationary/non-Gaussian vibrations of multi degree-of-freedom linear systems
     year: '2024'
+  94YnP_UAAAAJ:NhqRSupF_l8C:
+    citations: 0
+    title: One-shot learning for the complex dynamical behaviors of weakly nonlinear forced oscillators
+    year: '2026'
   94YnP_UAAAAJ:O3NaXMp0MMsC:
     citations: 15
     title: Instantaneous power balance algorithm for flutter critical wind speed prediction of bridge girders
@@ -110,7 +114,7 @@ papers:
     title: Comparison of probabilistic multivariate wind environment between typhoon and synoptic climate and its propagation in buffeting response for a long-span bridge
     year: '2025'
   94YnP_UAAAAJ:TFP_iSt0sucC:
-    citations: 14
+    citations: 15
     title: Data-based autonomously discovering method for nonlinear aerodynamic force of quasi-flat plate
     year: '2023'
   94YnP_UAAAAJ:ULOm3_A8WrAC:
@@ -134,7 +138,7 @@ papers:
     title: Nonlinear flutter critical state prediction for a bridge girder based on instantaneous power balance principle
     year: '2025'
   94YnP_UAAAAJ:ZeXyd9-uunAC:
-    citations: 139
+    citations: 141
     title: A fast on-site measure-analyze-suppress response to control vortex-induced-vibration of a long-span bridge
     year: '2022'
   94YnP_UAAAAJ:_FxGoFyzp5QC:
@@ -154,7 +158,7 @@ papers:
     title: "Nonlinear aerodynamic effects of a 5: 1 rectangular section in bending\u2013torsional coupled flutter"
     year: '2025'
   94YnP_UAAAAJ:abG-DnoFyZgC:
-    citations: 0
+    citations: 1
     title: Encoding Cumulation to Learn Perturbative Nonlinear Oscillatory Dynamics
     year: '2026'
   94YnP_UAAAAJ:aqlVkmm33-oC:
@@ -170,7 +174,7 @@ papers:
     title: Finite element based study on aerostatic post-buckling and multi-stability of long-span bridges
     year: '2024'
   94YnP_UAAAAJ:bFI3QPDXJZMC:
-    citations: 0
+    citations: 1
     title: "Energy-driven mechanism of a flat box girder in bending\u2013torsional coupled flutter"
     year: '2026'
   94YnP_UAAAAJ:dfsIfKJdRG4C:
@@ -202,11 +206,11 @@ papers:
     title: Extreme wind speed prediction in mountainous area with mixed wind climates
     year: '2023'
   94YnP_UAAAAJ:j3f4tGmQtD8C:
-    citations: 22
+    citations: 23
     title: Profiles of mean wind and turbulence intensity during strong typhoon landfall
     year: '2022'
   94YnP_UAAAAJ:lSLTfruPkqcC:
-    citations: 7
+    citations: 8
     title: Life-cycle assessment for flutter probability of a long-span suspension bridge based on operational monitoring data
     year: '2024'
   94YnP_UAAAAJ:mB3voiENLucC:
@@ -218,15 +222,15 @@ papers:
     title: Probabilistic flutter analysis of a long-span bridge in typhoon-prone regions considering climate change and structural deterioration
     year: '2021'
   94YnP_UAAAAJ:maZDTaKrznsC:
-    citations: 16
+    citations: 17
     title: "Multiscale Time Series Decomposition for Structural Dynamic Properties: Long\u2010Term Trend and Ambient Interference"
     year: '2023'
   94YnP_UAAAAJ:pqnbT2bcN3wC:
-    citations: 35
+    citations: 37
     title: State-of-the-art review on typhoon wind environments and their effects on long-span bridges
     year: '2024'
   94YnP_UAAAAJ:qxL8FJ1GzNcC:
-    citations: 25
+    citations: 26
     title: Bayesian optimization of typhoon full-track simulation on the Northwestern Pacific segmented by QuadTree decomposition
     year: '2021'
   94YnP_UAAAAJ:r0BpntZqJG4C:
@@ -242,18 +246,22 @@ papers:
     title: Examination of experimental variability in HFFB testing of a tall building under multi-directional winds
     year: '2017'
   94YnP_UAAAAJ:u_35RYKgDlwC:
-    citations: 3
+    citations: 4
     title: State augmentation method for multimode nonstationary vibrations of long-span bridges under extreme winds
     year: '2025'
   94YnP_UAAAAJ:ufrVoPGSRksC:
     citations: 19
     title: Physics-based method for the removal of spurious resonant frequencies in high-frequency force balance tests
     year: '2016'
+  94YnP_UAAAAJ:xtRiw3GOFMkC:
+    citations: 0
+    title: A wind-current flume study of scour and remediation effects on dynamics of monopile offshore wind turbines during operation and typhoon-induced shutdown
+    year: '2026'
   94YnP_UAAAAJ:yD5IFk8b50cC:
     citations: 5
     title: Characteristic analysis of occurrence probability for vortex-induced vibration of long-span bridge based on health monitoring system
     year: '2025'
   94YnP_UAAAAJ:zA6iFVUQeVQC:
-    citations: 10
+    citations: 11
     title: 'Vortex-induced vibration control of 5: 1 rectangular cylinder with an attached active splitter plate based on open-loop control method'
     year: '2025'
