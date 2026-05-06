@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-06'
 papers:
   94YnP_UAAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -42,7 +42,7 @@ papers:
     title: "Extreme typhoon wind speed mapping for coastal region of China: Geographically weighted regression\u2013based circular subregion algorithm"
     year: '2021'
   94YnP_UAAAAJ:BqipwSGYUEgC:
-    citations: 94
+    citations: 96
     title: A generalized van der Pol nonlinear model of vortex-induced vibrations of bridge decks with multistability
     year: '2024'
   94YnP_UAAAAJ:HDshCWvjkbEC:
@@ -74,7 +74,7 @@ papers:
     title: New GPU computing algorithm for wind load uncertainty analysis on high-rise systems
     year: '2015'
   94YnP_UAAAAJ:M3NEmzRMIkIC:
-    citations: 15
+    citations: 16
     title: Field measurements of wind microclimate at the vehicle level on a bridge deck under typical canyon terrain
     year: '2023'
   94YnP_UAAAAJ:MXK_kJrjxJIC:
@@ -146,7 +146,7 @@ papers:
     title: Exploring hurricane wind speed along US Atlantic coast in warming climate and effects on predictions of structural damage and intervention costs
     year: '2016'
   94YnP_UAAAAJ:_Qo2XoVZTnwC:
-    citations: 13
+    citations: 14
     title: Improved state augmentation method for buffeting analysis of structures subjected to non-stationary wind
     year: '2022'
   94YnP_UAAAAJ:_xSYboBqXhAC:
@@ -214,7 +214,7 @@ papers:
     title: Life-cycle assessment for flutter probability of a long-span suspension bridge based on operational monitoring data
     year: '2024'
   94YnP_UAAAAJ:mB3voiENLucC:
-    citations: 29
+    citations: 30
     title: Non-Gaussian turbulence induced buffeting responses of long-span bridges based on state augmentation method
     year: '2022'
   94YnP_UAAAAJ:mVmsd5A6BfQC:
@@ -226,7 +226,7 @@ papers:
     title: "Multiscale Time Series Decomposition for Structural Dynamic Properties: Long\u2010Term Trend and Ambient Interference"
     year: '2023'
   94YnP_UAAAAJ:pqnbT2bcN3wC:
-    citations: 37
+    citations: 38
     title: State-of-the-art review on typhoon wind environments and their effects on long-span bridges
     year: '2024'
   94YnP_UAAAAJ:qxL8FJ1GzNcC:
@@ -238,7 +238,7 @@ papers:
     title: Vibration mitigation of long-span bridges with damped outriggers
     year: '2022'
   94YnP_UAAAAJ:rO6llkc54NcC:
-    citations: 9
+    citations: 10
     title: Mode competition of the vortex-induced vibration for the long-span bridges with the closely-spaced multi-modes
     year: '2025'
   94YnP_UAAAAJ:roLk4NBRz8UC:
@@ -246,7 +246,7 @@ papers:
     title: Examination of experimental variability in HFFB testing of a tall building under multi-directional winds
     year: '2017'
   94YnP_UAAAAJ:u_35RYKgDlwC:
-    citations: 4
+    citations: 5
     title: State augmentation method for multimode nonstationary vibrations of long-span bridges under extreme winds
     year: '2025'
   94YnP_UAAAAJ:ufrVoPGSRksC:
