@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-13'
 papers:
   94YnP_UAAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -14,7 +14,7 @@ papers:
     title: Assessment of driving safety and comfort during vortex-induced vibrations in a long-span bridge considering wind-vehicle-bridge interactions
     year: '2025'
   94YnP_UAAAAJ:4DMP91E08xMC:
-    citations: 25
+    citations: 26
     title: Non-Gaussian turbulence induced buffeting responses of long-span bridges
     year: '2021'
   94YnP_UAAAAJ:4JMBOYKVnBMC:
@@ -42,15 +42,19 @@ papers:
     title: "Extreme typhoon wind speed mapping for coastal region of China: Geographically weighted regression\u2013based circular subregion algorithm"
     year: '2021'
   94YnP_UAAAAJ:BqipwSGYUEgC:
-    citations: 96
+    citations: 97
     title: A generalized van der Pol nonlinear model of vortex-induced vibrations of bridge decks with multistability
     year: '2024'
+  94YnP_UAAAAJ:CHSYGLWDkRkC:
+    citations: 0
+    title: Encoding Cumulation to Learn Perturbative Nonlinear Oscillatory Dynamics (Adv. Sci. 25/2026)
+    year: '2026'
   94YnP_UAAAAJ:HDshCWvjkbEC:
     citations: 15
     title: Optimization of long-span suspension bridge erection procedure considering flutter risk in mixed extreme wind events
     year: '2022'
   94YnP_UAAAAJ:HoB7MX3m0LUC:
-    citations: 8
+    citations: 9
     title: Buffeting performance of long-span bridges with different span affected by parametric typhoon wind
     year: '2024'
   94YnP_UAAAAJ:IjCSPb-OGe4C:
@@ -78,7 +82,7 @@ papers:
     title: Field measurements of wind microclimate at the vehicle level on a bridge deck under typical canyon terrain
     year: '2023'
   94YnP_UAAAAJ:MXK_kJrjxJIC:
-    citations: 68
+    citations: 71
     title: Measurement, modeling and simulation of wind turbulence in typhoon outer region
     year: '2019'
   94YnP_UAAAAJ:NMxIlDl6LWMC:
@@ -110,7 +114,7 @@ papers:
     title: 'A fully-coupled generalized model for multi-directional wind loads on tall buildings: A development of the quasi-steady theory'
     year: '2018'
   94YnP_UAAAAJ:SeFeTyx0c_EC:
-    citations: 9
+    citations: 10
     title: Comparison of probabilistic multivariate wind environment between typhoon and synoptic climate and its propagation in buffeting response for a long-span bridge
     year: '2025'
   94YnP_UAAAAJ:TFP_iSt0sucC:
@@ -130,7 +134,7 @@ papers:
     title: Wind-induced buffeting vibration of long-span bridge considering geometric and aerodynamic nonlinearity based on reduced-order modeling
     year: '2023'
   94YnP_UAAAAJ:YOwf2qJgpHMC:
-    citations: 25
+    citations: 26
     title: A novel forced motion apparatus with potential applications in structural engineering
     year: '2020'
   94YnP_UAAAAJ:ZHo1McVdvXMC:
@@ -138,11 +142,11 @@ papers:
     title: Nonlinear flutter critical state prediction for a bridge girder based on instantaneous power balance principle
     year: '2025'
   94YnP_UAAAAJ:ZeXyd9-uunAC:
-    citations: 141
+    citations: 145
     title: A fast on-site measure-analyze-suppress response to control vortex-induced-vibration of a long-span bridge
     year: '2022'
   94YnP_UAAAAJ:_FxGoFyzp5QC:
-    citations: 95
+    citations: 96
     title: Exploring hurricane wind speed along US Atlantic coast in warming climate and effects on predictions of structural damage and intervention costs
     year: '2016'
   94YnP_UAAAAJ:_Qo2XoVZTnwC:
@@ -159,10 +163,10 @@ papers:
     year: '2025'
   94YnP_UAAAAJ:abG-DnoFyZgC:
     citations: 1
-    title: Encoding Cumulation to Learn Perturbative Nonlinear Oscillatory Dynamics
+    title: Encoding cumulation to learn perturbative nonlinear oscillatory dynamics
     year: '2026'
   94YnP_UAAAAJ:aqlVkmm33-oC:
-    citations: 17
+    citations: 18
     title: Data-based windstorm type identification algorithm and extreme wind speed prediction
     year: '2021'
   94YnP_UAAAAJ:b0M2c_1WBrUC:
@@ -186,11 +190,11 @@ papers:
     title: "Life-cycle assessment of long-span bridge\u2019s wind resistant performance considering multisource time-variant effects and uncertainties"
     year: '2022'
   94YnP_UAAAAJ:f2IySw72cVMC:
-    citations: 2
+    citations: 3
     title: Efficient identification of flutter derivatives of bridge girders at multiple reduced wind speeds based on the Bayesian spectral density approach
     year: '2026'
   94YnP_UAAAAJ:fPk4N6BV_jEC:
-    citations: 13
+    citations: 14
     title: 'Pressure and flow patterns during multiple-order vertical vortex-induced vibrations of a 6: 1 rectangular cylinder'
     year: '2025'
   94YnP_UAAAAJ:hMod-77fHWUC:
@@ -202,7 +206,7 @@ papers:
     title: Wind-resistant design and safety evaluation of cooling towers by reinforcement area criterion
     year: '2019'
   94YnP_UAAAAJ:iH-uZ7U-co4C:
-    citations: 17
+    citations: 18
     title: Extreme wind speed prediction in mountainous area with mixed wind climates
     year: '2023'
   94YnP_UAAAAJ:j3f4tGmQtD8C:
@@ -214,7 +218,7 @@ papers:
     title: Life-cycle assessment for flutter probability of a long-span suspension bridge based on operational monitoring data
     year: '2024'
   94YnP_UAAAAJ:mB3voiENLucC:
-    citations: 30
+    citations: 31
     title: Non-Gaussian turbulence induced buffeting responses of long-span bridges based on state augmentation method
     year: '2022'
   94YnP_UAAAAJ:mVmsd5A6BfQC:
@@ -226,7 +230,7 @@ papers:
     title: "Multiscale Time Series Decomposition for Structural Dynamic Properties: Long\u2010Term Trend and Ambient Interference"
     year: '2023'
   94YnP_UAAAAJ:pqnbT2bcN3wC:
-    citations: 38
+    citations: 39
     title: State-of-the-art review on typhoon wind environments and their effects on long-span bridges
     year: '2024'
   94YnP_UAAAAJ:qxL8FJ1GzNcC:
