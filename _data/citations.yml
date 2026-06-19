@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-10'
+  last_updated: '2026-06-19'
 papers:
   94YnP_UAAAAJ:-f6ydRqryjwC:
     citations: 16
@@ -30,25 +30,21 @@ papers:
     title: "Time-cost \u2018\u2018trade-off\u2019\u2019analysis for wind-induced inhabitability of tall buildings equipped with tuned mass dampers"
     year: '2020'
   94YnP_UAAAAJ:5nxA0vEk-isC:
-    citations: 27
+    citations: 28
     title: A new stochastic formulation for synthetic hurricane simulation over the North Atlantic Ocean
     year: '2019'
   94YnP_UAAAAJ:8k81kl-MbHgC:
-    citations: 57
+    citations: 55
     title: Performance-based wind engineering of tall buildings examining life-cycle downtime and multisource wind damage
     year: '2020'
   94YnP_UAAAAJ:9ZlFYXVOiuMC:
-    citations: 56
+    citations: 57
     title: "Extreme typhoon wind speed mapping for coastal region of China: Geographically weighted regression\u2013based circular subregion algorithm"
     year: '2021'
   94YnP_UAAAAJ:BqipwSGYUEgC:
-    citations: 101
+    citations: 106
     title: A generalized van der Pol nonlinear model of vortex-induced vibrations of bridge decks with multistability
     year: '2024'
-  94YnP_UAAAAJ:CHSYGLWDkRkC:
-    citations: 0
-    title: Encoding Cumulation to Learn Perturbative Nonlinear Oscillatory Dynamics (Adv. Sci. 25/2026)
-    year: '2026'
   94YnP_UAAAAJ:HDshCWvjkbEC:
     citations: 16
     title: Optimization of long-span suspension bridge erection procedure considering flutter risk in mixed extreme wind events
@@ -58,11 +54,11 @@ papers:
     title: Buffeting performance of long-span bridges with different span affected by parametric typhoon wind
     year: '2024'
   94YnP_UAAAAJ:IjCSPb-OGe4C:
-    citations: 89
+    citations: 90
     title: Simulation and analysis of intervention costs due to wind-induced damage on tall buildings
     year: '2015'
   94YnP_UAAAAJ:JV2RwH3_ST0C:
-    citations: 34
+    citations: 35
     title: Multimode damping optimization of a long-span suspension bridge with damped outriggers for suppressing vortex-induced vibrations
     year: '2023'
   94YnP_UAAAAJ:J_g5lzvAfSwC:
@@ -78,7 +74,7 @@ papers:
     title: New GPU computing algorithm for wind load uncertainty analysis on high-rise systems
     year: '2015'
   94YnP_UAAAAJ:M3NEmzRMIkIC:
-    citations: 17
+    citations: 18
     title: Field measurements of wind microclimate at the vehicle level on a bridge deck under typical canyon terrain
     year: '2023'
   94YnP_UAAAAJ:MXK_kJrjxJIC:
@@ -98,7 +94,7 @@ papers:
     title: One-shot learning for the complex dynamical behaviors of weakly nonlinear forced oscillators
     year: '2026'
   94YnP_UAAAAJ:O3NaXMp0MMsC:
-    citations: 14
+    citations: 15
     title: Instantaneous power balance algorithm for flutter critical wind speed prediction of bridge girders
     year: '2024'
   94YnP_UAAAAJ:R3hNpaxXUhUC:
@@ -126,11 +122,11 @@ papers:
     title: Optimal structural design searching algorithm for cooling towers based on typical adverse wind load patterns
     year: '2020'
   94YnP_UAAAAJ:UebtZRa9Y70C:
-    citations: 81
+    citations: 79
     title: A unified framework for performance-based wind engineering of tall buildings in hurricane-prone regions based on lifetime intervention-cost estimation
     year: '2018'
   94YnP_UAAAAJ:YFjsv_pBGBYC:
-    citations: 53
+    citations: 54
     title: Wind-induced buffeting vibration of long-span bridge considering geometric and aerodynamic nonlinearity based on reduced-order modeling
     year: '2023'
   94YnP_UAAAAJ:YOwf2qJgpHMC:
@@ -142,7 +138,7 @@ papers:
     title: Nonlinear flutter critical state prediction for a bridge girder based on instantaneous power balance principle
     year: '2025'
   94YnP_UAAAAJ:ZeXyd9-uunAC:
-    citations: 150
+    citations: 152
     title: A fast on-site measure-analyze-suppress response to control vortex-induced-vibration of a long-span bridge
     year: '2022'
   94YnP_UAAAAJ:_FxGoFyzp5QC:
@@ -194,7 +190,7 @@ papers:
     title: Efficient identification of flutter derivatives of bridge girders at multiple reduced wind speeds based on the Bayesian spectral density approach
     year: '2026'
   94YnP_UAAAAJ:fPk4N6BV_jEC:
-    citations: 15
+    citations: 14
     title: 'Pressure and flow patterns during multiple-order vertical vortex-induced vibrations of a 6: 1 rectangular cylinder'
     year: '2025'
   94YnP_UAAAAJ:hMod-77fHWUC:
@@ -226,11 +222,11 @@ papers:
     title: Probabilistic flutter analysis of a long-span bridge in typhoon-prone regions considering climate change and structural deterioration
     year: '2021'
   94YnP_UAAAAJ:maZDTaKrznsC:
-    citations: 18
+    citations: 19
     title: "Multiscale Time Series Decomposition for Structural Dynamic Properties: Long\u2010Term Trend and Ambient Interference"
     year: '2023'
   94YnP_UAAAAJ:pqnbT2bcN3wC:
-    citations: 41
+    citations: 42
     title: State-of-the-art review on typhoon wind environments and their effects on long-span bridges
     year: '2024'
   94YnP_UAAAAJ:qxL8FJ1GzNcC:
@@ -238,11 +234,11 @@ papers:
     title: Bayesian optimization of typhoon full-track simulation on the Northwestern Pacific segmented by QuadTree decomposition
     year: '2021'
   94YnP_UAAAAJ:r0BpntZqJG4C:
-    citations: 54
+    citations: 55
     title: Vibration mitigation of long-span bridges with damped outriggers
     year: '2022'
   94YnP_UAAAAJ:rO6llkc54NcC:
-    citations: 10
+    citations: 11
     title: Mode competition of the vortex-induced vibration for the long-span bridges with the closely-spaced multi-modes
     year: '2025'
   94YnP_UAAAAJ:roLk4NBRz8UC:
